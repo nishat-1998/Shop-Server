@@ -1,0 +1,8 @@
+GET http://localhost:5000/api/users/userposttest
+###
+POST http://localhost:5000/api/users/userposttest
+Content-Type: application/json
+
+{
+ "username":"nishat"
+}
